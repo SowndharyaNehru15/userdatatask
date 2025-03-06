@@ -13,3 +13,28 @@ export 'package:searchbar_animation/searchbar_animation.dart';
 export 'package:provider/provider.dart';
 
 
+
+
+/*
+
+it status
+git add .
+git commit -m "Save work before rebase"
+git pull --rebase github main
+git push github main
+----------
+
+git branch
+git checkout main
+git pull --rebase origin main
+git add .
+git rebase --continue
+git push origin main
+
+
+
+github: Your GitHub repository (https://github.com/SowndharyaNehru15/userdatatask.git)
+origin: Your Bitbucket repository (https://sowndharya1598@bitbucket.org/sowndharya_flutter_01/kaptastask.git)
+
+
+*/
