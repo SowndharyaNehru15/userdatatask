@@ -1,5 +1,6 @@
 
 import 'package:demouserapp/utils.dart';
+import 'package:demouserapp/view/dripple/drip_ui_01.dart';
 
 void main() {
   runApp(
@@ -9,7 +10,9 @@ void main() {
       ],
       child: const MaterialApp(
         debugShowCheckedModeBanner: false,
-        home:UserScreen(),
+        home:
+        //FirstUserList(),
+        UserScreen(),
  
       ),
     ),
